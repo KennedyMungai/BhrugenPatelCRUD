@@ -5,6 +5,12 @@
 		},
 		{
 			"path": "..\\Tangy_Business_"
+		},
+		{
+			"path": "..\\Tangy_Common_"
+		},
+		{
+			"path": "..\\Tangy_DataAccess"
 		}
 	],
 	"settings": {}
